@@ -1,4 +1,4 @@
-# Testing_performance_of_classifiers_on_scRNA-seq_dataset
+# Testing performance of standard sklearn classifiers on scRNA-seq dataset
 The code was written from scratch in order to compare the performance of a number of models on a single cell RNA-sequencing dataset in a systematic way. I have designed the code to load and preprocess the data and the architecture in which the models are tested, the results are collected, displayed and visualized. 
 Scikit-learn library was used to train and test machine learning models, Numpy and Pandas were used to work with the datastructures, Matplotlib and Mglearn were used to visualize the results. 
 
